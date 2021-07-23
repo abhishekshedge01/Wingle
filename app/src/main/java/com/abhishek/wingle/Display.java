@@ -33,6 +33,7 @@ public class Display extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(getApplicationContext(),Signup.class);
+                Toast.makeText(getApplicationContext(), "Chnaged",Toast.LENGTH_SHORT).show();
                 startActivity(intent);
             }
         });
