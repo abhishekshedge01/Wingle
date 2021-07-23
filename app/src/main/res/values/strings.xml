@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wingle</string>
+    <string name="register">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="or">or</string>
+    <string name="phone_number">phone number</string>
+    <string name="todo">TODO</string>
+    <string name="new_user">New User?</string>
+    <string name="signup">SignUp</string>
+    <string name="username">username</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="registered_user">Registered User?</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797971629691",
+    "project_id": "wingle-20c34",
+    "storage_bucket": "wingle-20c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797971629691:android:27715ac47e954101d684de",
+        "android_client_info": {
+          "package_name": "com.abhishek.wingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797971629691-uqv8k6q9erq7rbpjc008bqn7cs1hmslb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hsmxBJQSTTkUZeyKMDPngrUNqmGi9gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797971629691-uqv8k6q9erq7rbpjc008bqn7cs1hmslb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
